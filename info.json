@@ -3,63 +3,53 @@
       {
          "cat_id":"1",
          "cat_name":"Festival",
-         "cat_status":"1",
-		 "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
 		 
       },
       {
          "cat_id":"2",
          "cat_name":"Birthday",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"3",
          "cat_name":"Happy",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"4",
          "cat_name":"Good Morning",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"5",
          "cat_name":"Good night",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"6",
          "cat_name":"Love",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"7",
          "cat_name":"Sad",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"8",
          "cat_name":"Attitude",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"9",
          "cat_name":"Girly",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       },
       {
          "cat_id":"10",
          "cat_name":"Anniversery",
-         "cat_status":"1",
-		  "cat_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
+         "cat_status":"1"
       }
    ],
    "trending":[
@@ -157,13 +147,15 @@
          "fest_id":"1",
          "fest_name":"Uttrayan",
          "fest_date":"3\/19\/2020",
-         "fest_status":"1"
+         "fest_status":"1",
+	   "fest_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
       },
       {
          "fest_id":"2",
          "fest_name":"Abc",
          "fest_date":"04\/05\/2020",
-         "fest_status":"1"
+         "fest_status":"1",
+	        "fest_cover":"https://drive.google.com/u/1/uc?id=1prdt0Hp2v58Zl1NmUlXY9QrYtJNzfUF3&export=download"
       }
    ],
    "FestImage":[
